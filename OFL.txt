@@ -1,4 +1,4 @@
-Copyright (c) 2015, Jeremy Cohen (ttps://github.com/jcohen-pdx/SlimJim-Typeface)
+Copyright (c) 2015, Jeremy Cohen (https://www.github.com/jcohen-pdx/SlimJim-Typeface)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
